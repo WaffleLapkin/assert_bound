@@ -1,6 +1,6 @@
 //! When working with iterators/futures or other hign-generic types sometimes it's useful to assert
 //! that type of some expression implements some traits or even cast smt to `impl Trait`.
-//! 
+//!
 //! This crate provides macros for both goals — [`assert_bound`] and [`as_opaque`].
 //!
 //! [`assert_bound`]: ./macro.assert_bound.html
