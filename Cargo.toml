@@ -1,7 +1,7 @@
 [package]
 name = "assert_bound"
 description = "Simple create that helps in asserting type bounds"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Waffle <wafflelapkin@gmail.com>"]
 license = "MIT"
 edition = "2018"
