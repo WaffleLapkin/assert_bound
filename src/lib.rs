@@ -5,6 +5,7 @@
 //!
 //! [`assert_bound`]: ./macro.assert_bound.html
 //! [`as_opaque`]: ./macro.as_opaque.html
+#![no_std]
 
 /// Assert that expression implements trait(s) at compile-time.
 ///

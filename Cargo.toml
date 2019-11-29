@@ -1,7 +1,17 @@
 [package]
 name = "assert_bound"
+description = "Simple create that helps in asserting type bounds"
 version = "0.1.0"
 authors = ["Waffle <wafflelapkin@gmail.com>"]
+license = "MIT"
 edition = "2018"
+
+repository = "https://github.com/WaffleLapkin/assert_bound/"
+homepage = "https://github.com/WaffleLapkin/assert_bound/"
+documentation = "https://docs.serde.rs/assert_bound/"
+readme = "README.md"
+
+keywords = ["no_std"]
+categories = ["development-tools", "no-std"]
 
 [dependencies]
