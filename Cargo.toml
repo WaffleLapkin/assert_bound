@@ -14,4 +14,8 @@ readme = "README.md"
 keywords = ["no_std"]
 categories = ["development-tools", "no-std"]
 
+exclude = [
+    ".github/*",
+]
+
 [dependencies]
