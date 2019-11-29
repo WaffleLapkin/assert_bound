@@ -8,7 +8,7 @@ edition = "2018"
 
 repository = "https://github.com/WaffleLapkin/assert_bound/"
 homepage = "https://github.com/WaffleLapkin/assert_bound/"
-documentation = "https://docs.serde.rs/assert_bound/"
+documentation = "https://docs.rs/assert_bound/"
 readme = "README.md"
 
 keywords = ["no_std"]
